@@ -1,3 +1,5 @@
+###Follow Along with [grossman's goat app...](http://blog.grossman.io/angular-1-component-based-architecture-2/)
+<br />
 <p align="center">
   <a href="https://angularclass.com" target="_blank">
     <img src="https://cloud.githubusercontent.com/assets/1016365/9864650/93a5660a-5b00-11e5-8716-a0d538d12913.png" alt="ng6-starter" width="480px;" >
@@ -100,7 +102,7 @@ Once you have these, install the following as globals:
 
 ## Running the App
 NG6 uses Gulp to build and launch the development environment. After you have installed all dependencies, you may run the app. Running `gulp` will bundle the app with `webpack`, launch a development server, and watch all files. The port will be displayed in the terminal.
- 
+
 ### Gulp Tasks
 Here's a list of available tasks:
 * `webpack`
@@ -113,7 +115,7 @@ Here's a list of available tasks:
 	* runs `serve`.
 * `component`
   * scaffolds a new Angular component. [Read below](#generating-components) for usage details.
-  
+
 ### Testing
 To run the tests, run `npm test` or `karma start`.
 
@@ -161,7 +163,7 @@ Because the argument to `--name` applies to the folder name **and** the actual c
 
 ___
 
-enjoy — **AngularClass** 
+enjoy — **AngularClass**
 
 <br><br>
 
